@@ -1,0 +1,1 @@
+This repository demonstrates a common yet subtle bug in VBScript stemming from its implicit type conversion behavior.  The example highlights how comparisons might not behave as expected when different data types are involved. The solution showcases a safer approach to ensure correct comparisons, enhancing code reliability.
